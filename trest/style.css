@@ -1,0 +1,383 @@
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 7625px;
+}
+
+.frame .overlap-group {
+  position: relative;
+  width: 3322px;
+  height: 7625px;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 1920px;
+  height: 779px;
+  top: 6846px;
+  left: 0;
+  background: linear-gradient(180deg, rgb(57, 57, 57) 0%, rgb(0, 0, 0) 100%);
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  top: 7405px;
+  left: 1025px;
+  font-family: "Anonymous Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  white-space: nowrap;
+}
+
+.frame .div {
+  position: absolute;
+  width: 1920px;
+  height: 6846px;
+  top: 0;
+  left: 0;
+  background-color: #393939;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 1920px;
+  height: 335px;
+  top: 1408px;
+  left: 0;
+  filter: blur(901.8px);
+  background: linear-gradient(180deg, rgb(178, 238, 42) 0%, rgb(189, 245, 53) 49.5%, rgb(176, 241, 32) 100%);
+}
+
+.frame .p {
+  position: absolute;
+  width: 1031px;
+  top: 1294px;
+  left: 621px;
+  font-family: "Anonymous Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: Truepx;
+}
+
+.frame .group {
+  position: absolute;
+  width: 140px;
+  height: 123px;
+  top: 1305px;
+  left: 400px;
+}
+
+.frame .ekran-grnts {
+  top: 1569px;
+  left: 144px;
+  position: absolute;
+  width: 793px;
+  height: 484px;
+}
+
+.frame .img {
+  top: 1575px;
+  left: 1016px;
+  position: absolute;
+  width: 793px;
+  height: 484px;
+}
+
+.frame .ekran-grnts-2 {
+  top: 2121px;
+  left: 1016px;
+  position: absolute;
+  width: 793px;
+  height: 484px;
+}
+
+.frame .ekran-grnts-3 {
+  top: 2121px;
+  left: 144px;
+  position: absolute;
+  width: 793px;
+  height: 484px;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 1440px;
+  height: 58px;
+  top: 4535px;
+  left: 1882px;
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  width: 190px;
+  height: 30px;
+  top: 14px;
+  left: 1708px;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  width: 37px;
+  top: 20px;
+  left: 1720px;
+  font-family: "Anonymous Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: Truepx;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  width: 46px;
+  top: 20px;
+  left: 1754px;
+  font-family: "Anonymous Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: Truepx;
+}
+
+.frame .about {
+  position: absolute;
+  width: 46px;
+  top: 11px;
+  left: 1796px;
+  font-family: "Anonymous Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: Truepx;
+}
+
+.frame .span {
+  font-family: "Anonymous Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-4 {
+  font-size: 24px;
+}
+
+.frame .group-wrapper {
+  position: absolute;
+  width: 54px;
+  height: 11px;
+  top: 21px;
+  left: 1836px;
+}
+
+.frame .div-wrapper {
+  position: relative;
+  width: 56px;
+  height: 11px;
+}
+
+.frame .text-wrapper-5 {
+  position: absolute;
+  width: 54px;
+  top: 0;
+  left: 0;
+  font-family: "Anonymous Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  white-space: nowrap;
+}
+
+.frame .group-2 {
+  position: absolute;
+  width: 50px;
+  height: 44px;
+  top: 7px;
+  left: 15px;
+}
+
+.frame .text-wrapper-6 {
+  position: absolute;
+  top: 2659px;
+  left: 508px;
+  font-family: "Pixelify Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  white-space: nowrap;
+}
+
+.frame .download {
+  position: absolute;
+  width: 1920px;
+  height: 857px;
+  top: 2830px;
+  left: 0;
+}
+
+.frame .text-wrapper-7 {
+  position: absolute;
+  top: 3785px;
+  left: 509px;
+  font-family: "Pixelify Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  white-space: nowrap;
+}
+
+.frame .ekran-grnts-4 {
+  position: absolute;
+  width: 1920px;
+  height: 991px;
+  top: 3939px;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .adsz-tasarm {
+  position: absolute;
+  width: 585px;
+  height: 544px;
+  top: 5195px;
+  left: 440px;
+}
+
+.frame .adsz-tasarm-2 {
+  position: absolute;
+  width: 528px;
+  height: 512px;
+  top: 5211px;
+  left: 992px;
+}
+
+.frame .adsz-tasarm-3 {
+  position: absolute;
+  width: 350px;
+  height: 320px;
+  top: 5651px;
+  left: 817px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-8 {
+  position: absolute;
+  top: 4948px;
+  left: 440px;
+  font-family: "Pixelify Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  white-space: nowrap;
+}
+
+.frame .component {
+  position: absolute;
+  width: 99px;
+  height: 56px;
+  top: 7390px;
+  left: 908px;
+}
+
+.frame .text-wrapper-9 {
+  position: absolute;
+  top: 7405px;
+  left: 876px;
+  font-family: "Anonymous Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-10 {
+  position: absolute;
+  top: 7575px;
+  left: 774px;
+  font-family: "Anonymous Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  white-space: nowrap;
+}
+
+.frame .vector {
+  position: absolute;
+  width: 378px;
+  height: 1520px;
+  top: 6105px;
+  left: 0;
+}
+
+.frame .text-wrapper-11 {
+  position: absolute;
+  width: 1123px;
+  top: 6260px;
+  left: 502px;
+  font-family: "Anonymous Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: Truepx;
+}
+
+.frame .DALLE {
+  position: absolute;
+  width: 345px;
+  height: 345px;
+  top: 6888px;
+  left: 549px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-12 {
+  position: absolute;
+  width: 530px;
+  top: 6946px;
+  left: 1015px;
+  font-family: "Anonymous Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: Truepx;
+}
+
+.frame .simsiz-video {
+  position: absolute;
+  width: 1920px;
+  height: 1030px;
+  top: 58px;
+  left: 0;
+}
